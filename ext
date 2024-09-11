@@ -1,0 +1,9 @@
+code --install-extension akamud.vscode-theme-onedark
+code --install-extension christian-kohler.path-intellisense
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension esbenp.prettier-vscode
+code --install-extension file-icons.file-icons
+code --install-extension postman.postman-for-vscode
+code --install-extension rvest.vs-code-prettier-eslint
+code --install-extension usernamehw.errorlens
+code --install-extension yoavbls.pretty-ts-errors
